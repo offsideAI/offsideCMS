@@ -2,6 +2,7 @@
 
 ## Steps
 
+* Scaffold using npm create svelte@latest offsideCMS
 ```
 ==> npm create svelte@latest offsideCMS
 Need to install the following packages:
@@ -40,4 +41,10 @@ Next steps:
 To close the dev server, hit Ctrl-C
 
 Stuck? Visit us at https://svelte.dev/chat
+```
+
+* Install pico
+
+```
+npm install @picocss/pico
 ```
